@@ -21,23 +21,33 @@
 /*  Step-1.2 You will also need to add a position property to the logo and sign in the containers */
 
 .menu {
-    width: 100px;
+    width: 16%;
+    margin-top:10px;
     height: 40px;
+    margin-left:1%;
     background: #536A63;
+    float:left;
 }
 
 .logo {
-    width: 300px;
+    width: 40%;
     height: 40px;
     margin-top: 10px;
+    margin-left:13%;
+    margin-right:13%;
     background: #536A63;
+    float:left;
 
 
 }
 
 .sign-in {
-    width: 100px;
+    margin-top:10px;
+    width: 16%;
     height: 40px;
+    margin-right:1%;
+    
+    float:left;
     background: #536A63;
 
 }
@@ -48,7 +58,9 @@
     width: 60%;
     height: 60px;
     left: 22%;
+    position:absolute;
     background: #536A63;
+    bottom:-20px;
 
 
 }
