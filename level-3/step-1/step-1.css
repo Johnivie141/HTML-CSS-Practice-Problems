@@ -74,3 +74,8 @@
     width: 350px;
 }
 
+body{
+    background: url("../img/Background.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
