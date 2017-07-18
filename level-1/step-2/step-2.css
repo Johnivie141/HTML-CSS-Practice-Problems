@@ -19,7 +19,7 @@
     width:210px;
     position:absolute;
     bottom:20px;
-    right:20px;
+    left:20px;
 }
 
 /* Step-2.3  You can either use float left or position absolute to get this element to in the desired location */
